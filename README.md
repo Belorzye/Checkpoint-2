@@ -1,4 +1,4 @@
-# Checkpoint-2
+# FRONT-END I / Checkpoint-2
 
 
 Site de vendas de produtos
